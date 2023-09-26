@@ -365,7 +365,7 @@ export default function Home() {
             <h4 className={styles.tokenDetailHead}>Soft cap</h4>
             <p className={styles.tokenDetailText}>4000 BNB</p>
             <h4 className={styles.tokenDetailHead}>ICO Start Date</h4>
-            <p className={styles.tokenDetailText}>1st of Jan 2023</p>
+            <p className={styles.tokenDetailText}>1st Feb 2024</p>
           </div>
           <div className={styles.tokenomicsColumn}>
             <h4 className={styles.tokenDetailHead}>Pre Sale - 1st Phase</h4>
